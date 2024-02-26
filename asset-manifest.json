@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/vard/static/css/main.94642355.css",
+    "main.js": "/vard/static/js/main.9766aef8.js",
+    "static/css/413.8c7397a7.chunk.css": "/vard/static/css/413.8c7397a7.chunk.css",
+    "static/js/413.579526cf.chunk.js": "/vard/static/js/413.579526cf.chunk.js",
+    "static/js/447.65c8eb0b.chunk.js": "/vard/static/js/447.65c8eb0b.chunk.js",
+    "static/js/453.c82944d9.chunk.js": "/vard/static/js/453.c82944d9.chunk.js",
+    "static/js/239.9c1bd539.chunk.js": "/vard/static/js/239.9c1bd539.chunk.js",
+    "static/js/213.48f435b7.chunk.js": "/vard/static/js/213.48f435b7.chunk.js",
+    "static/js/732.93f474d1.chunk.js": "/vard/static/js/732.93f474d1.chunk.js",
+    "static/js/154.c9d9f149.chunk.js": "/vard/static/js/154.c9d9f149.chunk.js",
+    "static/js/168.b8cbdd07.chunk.js": "/vard/static/js/168.b8cbdd07.chunk.js",
+    "index.html": "/vard/index.html",
+    "static/media/eye.svg": "/vard/static/media/eye.55cd39e3b58b49c1e56492cdc6a54b5b.svg",
+    "static/media/download.svg": "/vard/static/media/download.9c2f4942942a34ee567d685cb2cfd035.svg",
+    "main.94642355.css.map": "/vard/static/css/main.94642355.css.map",
+    "main.9766aef8.js.map": "/vard/static/js/main.9766aef8.js.map",
+    "413.8c7397a7.chunk.css.map": "/vard/static/css/413.8c7397a7.chunk.css.map",
+    "413.579526cf.chunk.js.map": "/vard/static/js/413.579526cf.chunk.js.map",
+    "447.65c8eb0b.chunk.js.map": "/vard/static/js/447.65c8eb0b.chunk.js.map",
+    "453.c82944d9.chunk.js.map": "/vard/static/js/453.c82944d9.chunk.js.map",
+    "239.9c1bd539.chunk.js.map": "/vard/static/js/239.9c1bd539.chunk.js.map",
+    "213.48f435b7.chunk.js.map": "/vard/static/js/213.48f435b7.chunk.js.map",
+    "732.93f474d1.chunk.js.map": "/vard/static/js/732.93f474d1.chunk.js.map",
+    "154.c9d9f149.chunk.js.map": "/vard/static/js/154.c9d9f149.chunk.js.map",
+    "168.b8cbdd07.chunk.js.map": "/vard/static/js/168.b8cbdd07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94642355.css",
+    "static/js/main.9766aef8.js"
+  ]
+}
