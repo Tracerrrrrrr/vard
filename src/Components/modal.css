@@ -1,0 +1,51 @@
+/* Default styles for the modal */
+.modal {
+  display: block;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal-content {
+  background-color: white;
+  margin: 5% auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 90%;
+  max-width: 800px;
+  height: 70%;
+  max-height: 600px;
+  overflow-y: auto;
+  position: relative;
+}
+
+.close {
+  color: white;
+  background-color: red;
+  border: none;
+  padding: 5px 10px;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 1;
+}
+
+.close:hover {
+  background-color: darkred;
+}
+
+/* Media query for smaller screens */
+@media screen and (max-width: 600px) {
+  .modal-content {
+    margin: 10% auto;
+    width: 90%;
+    height: 80%;
+  }
+}
