@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vard/static/css/main.94642355.css",
-    "main.js": "/vard/static/js/main.e12fbdda.js",
+    "main.js": "/vard/static/js/main.b7fcc65f.js",
     "static/css/413.8c7397a7.chunk.css": "/vard/static/css/413.8c7397a7.chunk.css",
     "static/js/413.579526cf.chunk.js": "/vard/static/js/413.579526cf.chunk.js",
     "static/js/447.65c8eb0b.chunk.js": "/vard/static/js/447.65c8eb0b.chunk.js",
@@ -15,7 +15,7 @@
     "static/media/eye.svg": "/vard/static/media/eye.55cd39e3b58b49c1e56492cdc6a54b5b.svg",
     "static/media/download.svg": "/vard/static/media/download.9c2f4942942a34ee567d685cb2cfd035.svg",
     "main.94642355.css.map": "/vard/static/css/main.94642355.css.map",
-    "main.e12fbdda.js.map": "/vard/static/js/main.e12fbdda.js.map",
+    "main.b7fcc65f.js.map": "/vard/static/js/main.b7fcc65f.js.map",
     "413.8c7397a7.chunk.css.map": "/vard/static/css/413.8c7397a7.chunk.css.map",
     "413.579526cf.chunk.js.map": "/vard/static/js/413.579526cf.chunk.js.map",
     "447.65c8eb0b.chunk.js.map": "/vard/static/js/447.65c8eb0b.chunk.js.map",
@@ -28,6 +28,6 @@
   },
   "entrypoints": [
     "static/css/main.94642355.css",
-    "static/js/main.e12fbdda.js"
+    "static/js/main.b7fcc65f.js"
   ]
 }
